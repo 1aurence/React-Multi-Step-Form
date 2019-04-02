@@ -2,7 +2,7 @@
 Some screenshots below and hosted <a href="https://codingwithlaurence.github.io/React-Multi-Step-Form/">here</a>
 
 <img src="https://i.imgur.com/EXJh99S.png" />
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr />
 <img src="https://i.imgur.com/6OE8W6v.png" />
 
 
